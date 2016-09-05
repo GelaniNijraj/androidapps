@@ -96,4 +96,8 @@ Root explorer for advanced users
 
 <img src="https://lh3.googleusercontent.com/DPKR9wd6oDY6dbsJum0AwEq1Od7wHH1AuccSg7qI_E643rgCgH7CPotucBEh_qLO40kx=w300-rw" width="auto" height="40")/>
 
-[Open Camera](http://opencamera.org.uk) is a fully featured and completely free Camera app for Android phones and tablets. 
+[Open Camera](http://opencamera.org.uk) is a fully featured and completely free Camera app for Android phones and tablets.
+
+---
+
+Feel free to add cool open source Android apps which would be missing from this list.
