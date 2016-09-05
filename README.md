@@ -24,3 +24,11 @@ Using Signal, you can communicate instantly while avoiding SMS fees, create grou
 <img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/k9mail.png" width="auto" height="40")/>
 
 [K-9 Mail](https://github.com/k9mail/k-9/) is an open-source e-mail client with search, IMAP push email, multi-folder sync, flagging, filing, signatures, bcc-self, [PGP](https://www.wikiwand.com/en/Pretty_Good_Privacy), mail on SD & more! K-9 supports IMAP, POP3 and Exchange 2003/2007 (with WebDAV).
+
+<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/lightning.png" width="auto" height="40")/>
+
+[Lightning](https://github.com/anthonycr/Lightning-Browser) is a simple, fast web browser that focuses on design, security, and efficiency. It uses material design, doesn't track you, give you lots of options to protect your privacy, and does it in under 2MB. It gets out of the way of the user.
+
+<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/newpipe.png" width="auto" height="40")/>
+
+[NewPipe](https://newpipe.schabi.org) is a lightweight YouTube front-end for Android. It doesn't need the YouTube-API or any Google Play Services, as NewPipe only parses the YouTube website in order to gain the information it needs.
