@@ -1,5 +1,3 @@
-<img src="http://www.sostav.ru/app/public/images/news/2014/06/27/Android.png" width="auto" height="200"/>
-
 # Open source Android apps
 
 A list of interesting and open source Android apps.
