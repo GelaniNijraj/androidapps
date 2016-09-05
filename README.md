@@ -146,6 +146,10 @@ The project was created by the absence of such applications compatible with old 
 
 [Terminal Emulator for Android](https://github.com/jackpal/Android-Terminal-Emulator) is a terminal emulator for communicating with the built-in Android shell. It emulates a reasonably large subset of Digital Equipment Corporation VT-100 terminal codes, so that programs like "vi", "Emacs" and "NetHack" will display properly.
 
+<img src="https://lh3.googleusercontent.com/Rgali5rKl8iNo8kGuocH_4V9md6HbeW0YE-Bb6PGVzHoG5ng8bcNk3ywOx0-AOnqu-8t=w300-rw" width="auto" height="40")/>
+
+[Simplenote](https://simplenote.com) is an easy way to keep notes, lists, ideas, and more. Keep notes on the web, your mobile device, and your computer. Find notes quickly with instant searching and simple tags. Share a list, post some instructions, or publish your thoughts.
+
 ---
 
 Feel free to add cool open source Android apps which would be missing from this list.
