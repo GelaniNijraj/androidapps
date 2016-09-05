@@ -120,6 +120,32 @@ Recognized in Google Play's Best Apps of 2014, Brave (formerly known as LinkBubb
 
 Brave is designed for both speed and security, so you can enjoy a lightning fast browsing experience without popups, malware and other annoyances. All Brave browsers are open source, so you can view our code and even make contributions.
 
+<img src="https://lh3.googleusercontent.com/cRGR6rWCpk6CfIPMLvTzkNNLcCjTOG_RvvQrKLQP5FxGv7PchQqnYMvy80Mn9jI1pP9l=w300-rw" width="auto" height="40")/>
+
+[Ghost Commander](https://sites.google.com/site/ghostcommander1) is a file manager with two panels for the Android™ platform. Its development was inspired by the famous (Norton|Midnight|Total) Commander desktop applications, so if you are familiar with those great programs, you will find Ghost Commander a familiar and very convenient environment.
+
+As was said above, it has two separate panels, both of them able to show files from different locations. What does that give you? For example, when you need to copy files from one folder to another, you just select the files in one panel and the target in the other, then hit the '5' key (either on the physical keyboard or on the toolbar). That's it. No need to do such boring steps as copying the files to the clipboard, navigating to the place you want them to be copied to, pasting and then going back. 
+
+All the main file operations in this application are bound to numerical keys, with the same numbers as in the well-known prototype applications (e.g.: "F5 copy" is just '5', "F6 move" is '6'). If your device is not enriched with a physical keyboard, no problem, Ghost Commander features a customizable toolbar which has all the often-used commands collected in one place.
+
+<img src="https://lh4.ggpht.com/EO1uOieubXpbKirYORUaEHZX7udIUlHcd7pgjZXQ71DYocMp5PDe610AVPVAozAL-l0=w300-rw" width="auto" height="40")/>
+
+[Twidere](http://twidere.mariotaku.org) is a powerful Twitter/StatusNet/Fanfou app for Android 4.0+, which gives you a full Material experience and nearly complete (or even better) Twitter feature.
+
+<img src="https://lh3.googleusercontent.com/KEKTKfmJxEQoHB7GwxXxfYUQd0VjFDqsnm8EI8gm2PXiKNA6bcKsNrMw1KazzdVv0ME=w300-rw" width="auto" height="40")/>
+
+[Omni-Notes](https://federicoiosue.github.io/Omni-Notes/) is a note taking open-source application aimed to have both a simple interface but keeping smart behavior.
+
+The project was created by the absence of such applications compatible with old phones and old versions of Android that would propose, however, an attractive look and aligned with the most recent design of the Google operating system.
+
+<img src="https://lh3.googleusercontent.com/UGqSCx96rFlYX_P8YIzUBUo9g-q1J1Ba_dV1z0cxdBhWOmxZQODsPCDT7AQky7lBZA=w300-rw" width="auto" height="40")/>
+
+[Hack.chat](https://hack.chat) is a minimal, distraction-free chat application. Create a chatroom with just a name, there are no preset channel so just enter a chatroom name and a nickname, share the link and communicate.
+
+<img src="https://lh4.ggpht.com/2jbUS9Hz8nWQEZKQR17xpxEnXhlW3tisxmhi-NNrMaA6TQT2RtewoHAezDXCbEPJxg=w300-rw" width="auto" height="40")/>
+
+[Terminal Emulator for Android](https://github.com/jackpal/Android-Terminal-Emulator) is a terminal emulator for communicating with the built-in Android shell. It emulates a reasonably large subset of Digital Equipment Corporation VT-100 terminal codes, so that programs like "vi", "Emacs" and "NetHack" will display properly.
+
 ---
 
 Feel free to add cool open source Android apps which would be missing from this list.
