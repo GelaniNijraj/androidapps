@@ -20,3 +20,7 @@ Using Signal, you can communicate instantly while avoiding SMS fees, create grou
 <img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/chatsecure.png" width="auto" height="40")/>
 
 [ChatSecure](https://chatsecure.org) is a free and open source messaging app that features OTR encryption over XMPP. You can connect to your existing accounts on Facebook or Google, create new accounts on [public XMPP servers](https://xmpp.net/directory.php) (including via [Tor](https://www.torproject.org/)), or even [connect to your own server](http://arstechnica.com/information-technology/2014/03/how-to-set-up-your-own-private-instant-messaging-server) for extra security. Unlike other apps that keep you stuck in their walled garden, ChatSecure is fully interoperable with other clients that support OTR and XMPP, such as [Adium](https://www.adium.im), [Jitsi](https://jitsi.org), and [more](https://www.wikiwand.com/en/Off-the-Record_Messaging#/Client_support).
+
+<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/k9mail.png" width="auto" height="40")/>
+
+[K-9 Mail](https://github.com/k9mail/k-9/) is an open-source e-mail client with search, IMAP push email, multi-folder sync, flagging, filing, signatures, bcc-self, [PGP](https://www.wikiwand.com/en/Pretty_Good_Privacy), mail on SD & more! K-9 supports IMAP, POP3 and Exchange 2003/2007 (with WebDAV).
