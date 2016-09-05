@@ -98,6 +98,28 @@ Root explorer for advanced users
 
 [Open Camera](http://opencamera.org.uk) is a fully featured and completely free Camera app for Android phones and tablets.
 
+<img src="https://camo.githubusercontent.com/23fbe32cc11eced94a8be58052d3fe70ab84ef3b/687474703a2f2f692e696d6775722e636f6d2f664668796756772e706e67" width="auto" height="40")/>
+
+[Antox](https://github.com/Antox/Antox) is an Android 4+ client for Tox created by Mark Winter. It aims to bring the full multimedia support Tox offers to your device, although it's still currently in heavy development. Antox is currently available for alpha testing on Google Play and F-Droid.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Protonmail_logo.svg/440px-Protonmail_logo.svg.png" width="auto" height="40")/>
+
+[ProtonMail](https://protonmail.com) is the world’s largest encrypted email service with over 1 million users. The ProtonMail secure email app for Android brings easy-to-use email encryption to your mobile device by seamlessly integrating PGP end-to-end encryption. ProtonMail also provides a modern user interface with a full set of innovative features such as customizable swipe gestures and the ability to send expiring emails.
+
+Since we were founded by CERN scientists in 2013, we have been joined by citizens from around the globe who have supported our mission to protect online privacy. Our mobile app was made possible by a record-breaking $550,000 donation campaign. With the ProtonMail app, you can now create your own free ProtonMail email account and start experiencing the secure email of the future.
+
+<img src="https://lh3.googleusercontent.com/iGAZ0rWvU-gGFiQrI4Vfb9AI3wn2kx0p1n7dtsPX9AJVASx18Bn5m6uGu2Tr8_8n35E=w300-rw" width="auto" height="40")/>
+
+[Orbot](https://guardianproject.info/apps/orbot/) is a free proxy app that empowers other apps to use the internet more securely. Orbot uses Tor to encrypt your Internet traffic and then hides it by bouncing through a series of computers around the world. Tor is free software and an open network that helps you defend against a form of network surveillance that threatens personal freedom and privacy, confidential business activities and relationships, and state security known as traffic analysis. Orbot creates a truly private mobile internet connection.
+
+<img src="https://brave.com/assets/img/brave_logo_horz.svg" width="auto" height="40")/>
+
+[Brave](https://brave.com) has joined forces with LinkBubble to bring you a faster web - by blocking the ads and trackers that get in your way plus all the features you love from LinkBubble. Just go to the settings to turn on or off privacy features like ad blocking, tracker protection and Https Everywhere.
+
+Recognized in Google Play's Best Apps of 2014, Brave (formerly known as LinkBubble) has unique features to make internet browsing faster and more seamless. When you click on a link in an app, Brave loads that webpage in the background, leaving you free to keep using your current app -  rather than wasting your time watching pages load.
+
+Brave is designed for both speed and security, so you can enjoy a lightning fast browsing experience without popups, malware and other annoyances. All Brave browsers are open source, so you can view our code and even make contributions.
+
 ---
 
 Feel free to add cool open source Android apps which would be missing from this list.
