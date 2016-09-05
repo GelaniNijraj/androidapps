@@ -12,3 +12,7 @@ A list of interesting and open source Android apps.
 
 Privacy is possible, [Signal](https://whispersystems.org) makes it easy.
 Using Signal, you can communicate instantly while avoiding SMS fees, create groups so that you can chat in real time with all your friends at once, and share media or attachments all with complete privacy. The server never has access to any of your communication and never stores any of your data.
+
+<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/silence.png" width="auto" height="60")/>
+
+[Silence](https://silence.im) (formerly SMSSecure) is an SMS/MMS application that allows you to protect your privacy while communicating with friends. Using Silence, you can send SMS messages and share media or attachments with complete privacy.
