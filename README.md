@@ -150,6 +150,10 @@ The project was created by the absence of such applications compatible with old 
 
 [Simplenote](https://simplenote.com) is an easy way to keep notes, lists, ideas, and more. Keep notes on the web, your mobile device, and your computer. Find notes quickly with instant searching and simple tags. Share a list, post some instructions, or publish your thoughts.
 
+<img src="http://antennapod.org/assets/img/antennapod-logo.png" width="auto" height="40")/>
+
+[AntennaPod](http://antennapod.org) is a podcast manager and player that gives you instant access to millions of free and paid podcasts, from independent podcasters to large publishing houses such as the BBC, NPR and CNN. Add, import and export their feeds hassle-free using the iTunes podcast database, gPodder, OPML files or simple RSS URLs. Save effort, battery power and mobile data usage with powerful automation controls for downloading episodes (specify times, intervals and WiFi networks) and deleting episodes (based your favourites and delay settings). But most importantly: Download, stream or queue episodes and enjoy them the way you like with adjustable playback speeds, chapter support and a sleep timer.
+
 ---
 
 Feel free to add cool open source Android apps which would be missing from this list.
