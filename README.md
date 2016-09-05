@@ -89,3 +89,11 @@ Root explorer for advanced users
 [Aperture Gallery](https://github.com/MJonesDev/ApertureGallery) is an open source material design gallery. No distractions from your photos, and no heavy weight from loading. Personalize it to your liking by changing colours and by going into dark mode. Based on an old build of Impression by Aidan Follestad, Daniel Chao, and Marlon Jones.
 
 > "Due to an expired keystore Keystore, Aperture Gallery is being replaced by a new version, and this will now be known as Aperture Classic. I will focus on developing this new version of Aperture, and will add in more features and additions as my time permits. Aperture Gallery (Known as Project: EVO to beta and debug testers) will be released on the Google Play store in the coming months."
+
+<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/masterpassword.png" width="auto" height="40")/>
+
+[Master Password](http://masterpasswordapp.com) is not another password manager. This app will replace all your passwords with new strong passwords generated from your new master password; passwords are stored nowhere and need no sync, cloud or backups. This app will securely generate strong and unique passwords for any purpose, in a way that nobody can log or trace. Better yet, even if you somehow lose everything, you can effortlessly recreate all your passwords.
+
+<img src="https://lh3.googleusercontent.com/DPKR9wd6oDY6dbsJum0AwEq1Od7wHH1AuccSg7qI_E643rgCgH7CPotucBEh_qLO40kx=w300-rw" width="auto" height="40")/>
+
+[Open Camera](http://opencamera.org.uk) is a fully featured and completely free Camera app for Android phones and tablets. 
