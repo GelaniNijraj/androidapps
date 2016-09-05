@@ -159,3 +159,9 @@ The project was created by the absence of such applications compatible with old 
 ---
 
 Feel free to add cool open source Android apps which would be missing from this list.
+
+---
+
+## TO DO
+
+* Add F-droid, Google Play and Githubs links to all the apps
