@@ -16,3 +16,7 @@ Using Signal, you can communicate instantly while avoiding SMS fees, create grou
 <img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/silence.png" width="auto" height="40")/>
 
 [Silence](https://silence.im) (formerly SMSSecure) is an SMS/MMS application that allows you to protect your privacy while communicating with friends. Using Silence, you can send SMS messages and share media or attachments with complete privacy.
+
+<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/chatsecure.png" width="auto" height="40")/>
+
+[ChatSecure](https://chatsecure.org) is a free and open source messaging app that features OTR encryption over XMPP. You can connect to your existing accounts on Facebook or Google, create new accounts on public XMPP servers (including via Tor), or even connect to your own server for extra security. Unlike other apps that keep you stuck in their walled garden, ChatSecure is fully interoperable with other clients that support OTR and XMPP, such as Adium, Jitsi, and more.
