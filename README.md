@@ -46,7 +46,7 @@ Using Signal, you can communicate instantly while avoiding SMS fees, create grou
 [Telegram](https://telegram.org) is a messaging app with a focus on speed and security. It’s super-fast, simple, secure and free.
 Telegram seamlessly syncs across all of your devices and can be used on desktops, tablets and phones alike. You can send an unlimited amount of messages, photos, videos and files of any type (.doc, .zip, .pdf, etc.). Telegram groups have up to 5000 people and you can create channels to broadcast messages to an unlimited number of subscribers.
 
-> "It's worth a mention that Telegram's server side is not open-source. However, that doesn't really matter for security purposes, because the end-to-end encryption between client-side end users is tested and works flawlessly in Telegram regardless of the software on the server." — [enigmatoid](https://fr.reddit.com/user/enigmatoid)
+> "It's worth a mention that Telegram's server side is not open-source. However, that doesn't really matter for security purposes, because the end-to-end encryption between client-side end users is tested and works flawlessly in Telegram regardless of the software on the server." — [enigmatoid](https://reddit.com/r/opensource/comments/51a3dv/a_list_of_interesting_and_open_source_android_apps/d7agjbq)
 
 <img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/conversations.png" width="auto" height="40")/>
 
