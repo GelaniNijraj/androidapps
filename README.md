@@ -61,3 +61,31 @@ Telegram seamlessly syncs across all of your devices and can be used on desktops
 <img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/afwall.jpg" width="auto" height="40")/>
 
 Android firewall [AFWall+](https://github.com/ukanth/afwall) is an advanced iptables editor (GUI) for Android. It provides fine-grained control over which Android apps are allowed to access the network. The original codebase was derived from [DroidWall](https://code.google.com/archive/p/droidwall/) by Rodrigo Rosauro. DroidWall was sold to AVAST in December 2011, and is no longer actively maintained.
+
+<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/amazefile.png" width="auto" height="40")/>
+
+[Amaze File Manager](https://github.com/arpitkh96/AmazeFileManager) is a light and smooth file manager following the Material Design guidelines.
+
+Features:
+
+Basic features like cut, copy, delete, compress, extract etc. easily accessible
+Work on multiple tabs at same time
+Multiple themes with cool icons
+Navigation drawer for quick navigation
+App Manager to open, backup, or directly uninstall any app
+Quickly access history, access bookmarks or search for any file
+Root explorer for advanced users
+
+<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/etar.jpg" width="auto" height="40")/>
+
+[Etar Calendar](https://github.com/xsoh/Etar-Calendar) is a material designed calendar based on the ASOP calendar.
+
+<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/slide.png" width="auto" height="40")/>
+
+[Slide for Reddit](https://github.com/ccrama/Slide) is a rock-solid material-designed unofficial browser for Reddit with an easy to use UI and tons of customization. Slide is ad-free, open source, and is packed with many unique features.
+
+<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/aperture.jpg" width="auto" height="40")/>
+
+[Aperture Gallery](https://github.com/MJonesDev/ApertureGallery) is an open source material design gallery. No distractions from your photos, and no heavy weight from loading. Personalize it to your liking by changing colours and by going into dark mode. Based on an old build of Impression by Aidan Follestad, Daniel Chao, and Marlon Jones.
+
+> "Due to an expired keystore Keystore, Aperture Gallery is being replaced by a new version, and this will now be known as Aperture Classic. I will focus on developing this new version of Aperture, and will add in more features and additions as my time permits. Aperture Gallery (Known as Project: EVO to beta and debug testers) will be released on the Google Play store in the coming months."
