@@ -32,3 +32,32 @@ Using Signal, you can communicate instantly while avoiding SMS fees, create grou
 <img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/newpipe.png" width="auto" height="40")/>
 
 [NewPipe](https://newpipe.schabi.org) is a lightweight YouTube front-end for Android. It doesn't need the YouTube-API or any Google Play Services, as NewPipe only parses the YouTube website in order to gain the information it needs.
+
+<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/adaway.png" width="auto" height="40")/>
+
+[AdAway](https://adaway.org) is an ad blocker that uses the hosts file. The hosts file contains a list of mappings between hostnames and IP addresses. When an app requests an ad, that request is directed to 127.0.0.1 which does nothing. There are options to run a web server to respond to blocked hostnames and to direct requests to the IP address of your choosing. You can download hosts files from the app but it is possible to use your own and to add certain sites to the white- and black-lists.
+
+<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/writeily.jpg" width="auto" height="40")/>
+
+[Writely](http://writeily.me) is a minimalist Markdown editor for Android. Simply and elegantly compose notes in markdown or plain text. Organize by folders, save and access files from external storage, and restrict access with a PIN lock.
+
+<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/telegram.png" width="auto" height="40")/>
+
+[Telegram](https://telegram.org) is a messaging app with a focus on speed and security. It’s super-fast, simple, secure and free.
+Telegram seamlessly syncs across all of your devices and can be used on desktops, tablets and phones alike. You can send an unlimited amount of messages, photos, videos and files of any type (.doc, .zip, .pdf, etc.). Telegram groups have up to 5000 people and you can create channels to broadcast messages to an unlimited number of subscribers.
+
+<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/conversations.png" width="auto" height="40")/>
+
+[Conversation](https://conversations.im) is a free and open source Jabber/XMPP client for Android 4.0+ smartphones that has been optimized to provide a unique mobile experience. Easy to use, reliable, battery friendly. With built-in support for images, group chats and e2e encryption.
+
+<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/osmand.png" width="auto" height="40")/>
+
+[OsmAnd](http://osmand.net) (OSM Automated Navigation Directions) is a map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap (OSM) data. All map data can be stored on your device's memory card for offline use. Via your device's GPS, OsmAnd offers routing, with optical and voice guidance, for car, bike, and pedestrian. All the main functionalities work both online and offline (no internet needed).
+
+<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/mirakel.png" width="auto" height="40")/>
+
+[Mirakel](http://mirakel.azapps.de) is an easy to use and lightweight To-Do App for your Android Phone or Tablet. Become the most efficient & effective Dev with this task list for the greatest developers in the universe. Get your things done with a strictly organised workflow.
+
+<img src="https://iampox.com/blog/user/pages/post/applications-android-open-source-indispensables/afwall.jpg" width="auto" height="40")/>
+
+Android firewall [AFWall+](https://github.com/ukanth/afwall) is an advanced iptables editor (GUI) for Android. It provides fine-grained control over which Android apps are allowed to access the network. The original codebase was derived from [DroidWall](https://code.google.com/archive/p/droidwall/) by Rodrigo Rosauro. DroidWall was sold to AVAST in December 2011, and is no longer actively maintained.
